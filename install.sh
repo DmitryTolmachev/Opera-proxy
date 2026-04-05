@@ -81,7 +81,7 @@ BIND_ADDR="127.0.0.1"
 BIND_PORT="1080"
 
 # Уровень логов: 10=debug 20=info 30=warn 40=error
-VERBOSITY="20"
+VERBOSITY="40"
 EOF
   ok "Конфиг создан: $CONF_FILE"
 fi
